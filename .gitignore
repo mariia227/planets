@@ -1,3 +1,4 @@
 *.dat
 log_*
 results/
+graphs/
